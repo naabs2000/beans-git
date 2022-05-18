@@ -35,3 +35,6 @@ We started with computers, but we didn’t stop there. We are helping customers 
 You can also learn more about us by reading our latest Diversity and Inclusion Report and our plan to make the world a better place by 2030 here.
 
 Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all age
+
+667d46970cc6da7e5d88e4ba7b6ff22f2c9c166e
+667d46970cc6da7e5d88e4ba7b6ff22f2c9c166e
